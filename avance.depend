@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1629464015 source:c:\users\marivone kebou\documents\avance\persone.c
+	"personne.h"
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1629214645 c:\users\marivone kebou\documents\avance\personne.h
+	<stdio.h>
+
+1629464396 source:c:\users\marivone kebou\documents\avance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personne.h"
+	<ctype.h>
+	<time.h>
+
